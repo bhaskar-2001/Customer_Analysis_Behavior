@@ -26,7 +26,7 @@ This project analyzes:
 ## 📷 Dashboard Preview
 
 <p align="center">
-  <img src="image/dashboard_preview.png" alt="Customer Behavior Dashboard" width="900"/>
+  <img src="image/dashboard_preview.jpeg" alt="Customer Behavior Dashboard" width="900"/>
 </p>
 
 ------------------------------------------------------------------------
